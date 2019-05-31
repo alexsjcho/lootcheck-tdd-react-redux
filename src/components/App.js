@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Wallet from './Wallet';
+import Loot from './Loot';
 
 class App extends Component {
   render() {
@@ -8,6 +9,7 @@ class App extends Component {
         <h1>Loot Check</h1>
         <hr />
         <Wallet />
+        {/* <Loot /> */}
       </div>
     );
   }

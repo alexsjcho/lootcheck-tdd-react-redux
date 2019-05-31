@@ -1,0 +1,18 @@
+body {
+  background-image: url
+    ('https://motionarray.imgix.net/preview-6200095xIJqqsuc_0015.jpg');
+  text-align: center;
+  padding: 5%;
+  font-size: 18px;
+}
+
+button {
+  margin-left: 5px;
+}
+
+button,
+input {
+  border: 2px solid black;
+  border-radius: 2px;
+  background-color: whitesmoke;
+}
